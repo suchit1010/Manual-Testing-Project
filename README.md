@@ -50,7 +50,7 @@ The RTM links test cases to specific requirements.
 
 ## Issues and Bugs
 
-If you encounter any issues or bugs during testing, please report them [here](https://github.com/your-username/manual-testing-project/issues).
+If you encounter any issues or bugs during testing, please report them [here]((https://github.com/suchit1010/Manual-Testing-Project.git)).
 
 ## Contributing
 
